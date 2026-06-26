@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kani675/leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kani675/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/kani675/leetcode/tree/master/0198-house-robber) |
+| [0218-the-skyline-problem](https://github.com/kani675/leetcode/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kani675/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/kani675/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0733-flood-fill](https://github.com/kani675/leetcode/tree/master/0733-flood-fill) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kani675/leetcode/tree/master/0049-group-anagrams) |
+| [0218-the-skyline-problem](https://github.com/kani675/leetcode/tree/master/0218-the-skyline-problem) |
 ## Matrix
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kani675/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/kani675/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/kani675/leetcode/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kani675/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/kani675/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [3537-fill-a-special-grid](https://github.com/kani675/leetcode/tree/master/3537-fill-a-special-grid) |
@@ -139,19 +142,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/kani675/leetcode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/kani675/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/kani675/leetcode/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/kani675/leetcode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/kani675/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/kani675/leetcode/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kani675/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/kani675/leetcode/tree/master/0218-the-skyline-problem) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kani675/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/kani675/leetcode/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/kani675/leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
