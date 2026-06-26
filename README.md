@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kani675/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/kani675/leetcode/tree/master/0198-house-robber) |
 | [0733-flood-fill](https://github.com/kani675/leetcode/tree/master/0733-flood-fill) |
+| [0812-largest-triangle-area](https://github.com/kani675/leetcode/tree/master/0812-largest-triangle-area) |
 | [1980-find-unique-binary-string](https://github.com/kani675/leetcode/tree/master/1980-find-unique-binary-string) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kani675/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/kani675/leetcode/tree/master/0050-powx-n) |
+| [0812-largest-triangle-area](https://github.com/kani675/leetcode/tree/master/0812-largest-triangle-area) |
 | [0887-super-egg-drop](https://github.com/kani675/leetcode/tree/master/0887-super-egg-drop) |
 ## Binary Search
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kani675/leetcode/tree/master/0011-container-with-most-water) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/kani675/leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
