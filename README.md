@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/kani675/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/kani675/leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/kani675/leetcode/tree/master/0069-sqrtx) |
 | [0812-largest-triangle-area](https://github.com/kani675/leetcode/tree/master/0812-largest-triangle-area) |
 | [0887-super-egg-drop](https://github.com/kani675/leetcode/tree/master/0887-super-egg-drop) |
 ## Binary Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kani675/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kani675/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/kani675/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kani675/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0887-super-egg-drop](https://github.com/kani675/leetcode/tree/master/0887-super-egg-drop) |
 ## Hash Table
