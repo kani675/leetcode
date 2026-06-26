@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kani675/leetcode/tree/master/0733-flood-fill) |
 | [0812-largest-triangle-area](https://github.com/kani675/leetcode/tree/master/0812-largest-triangle-area) |
 | [1980-find-unique-binary-string](https://github.com/kani675/leetcode/tree/master/1980-find-unique-binary-string) |
+| [3537-fill-a-special-grid](https://github.com/kani675/leetcode/tree/master/3537-fill-a-special-grid) |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/kani675/leetcode/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 ## Math
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kani675/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/kani675/leetcode/tree/master/0733-flood-fill) |
+| [3537-fill-a-special-grid](https://github.com/kani675/leetcode/tree/master/3537-fill-a-special-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/kani675/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kani675/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/kani675/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [3537-fill-a-special-grid](https://github.com/kani675/leetcode/tree/master/3537-fill-a-special-grid) |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/kani675/leetcode/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 ## Design
 |  |
