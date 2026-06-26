@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kani675/leetcode/tree/master/0069-sqrtx) |
 | [0812-largest-triangle-area](https://github.com/kani675/leetcode/tree/master/0812-largest-triangle-area) |
 | [0887-super-egg-drop](https://github.com/kani675/leetcode/tree/master/0887-super-egg-drop) |
+| [1323-maximum-69-number](https://github.com/kani675/leetcode/tree/master/1323-maximum-69-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kani675/leetcode/tree/master/0011-container-with-most-water) |
+| [1323-maximum-69-number](https://github.com/kani675/leetcode/tree/master/1323-maximum-69-number) |
 ## Geometry
 |  |
 | ------- |
