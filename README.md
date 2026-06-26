@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kani675/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/kani675/leetcode/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/kani675/leetcode/tree/master/0052-n-queens-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/kani675/leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
