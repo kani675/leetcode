@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kani675/leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kani675/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/kani675/leetcode/tree/master/0198-house-robber) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kani675/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/kani675/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0733-flood-fill](https://github.com/kani675/leetcode/tree/master/0733-flood-fill) |
 | [0812-largest-triangle-area](https://github.com/kani675/leetcode/tree/master/0812-largest-triangle-area) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kani675/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kani675/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kani675/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kani675/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0887-super-egg-drop](https://github.com/kani675/leetcode/tree/master/0887-super-egg-drop) |
 ## Hash Table
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kani675/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/kani675/leetcode/tree/master/0733-flood-fill) |
 ## Linked List
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kani675/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/kani675/leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Design
 |  |
