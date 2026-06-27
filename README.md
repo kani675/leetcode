@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/kani675/leetcode/tree/master/0812-largest-triangle-area) |
 | [1027-longest-arithmetic-subsequence](https://github.com/kani675/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1980-find-unique-binary-string](https://github.com/kani675/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/kani675/leetcode/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [3477-fruits-into-baskets-ii](https://github.com/kani675/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3537-fill-a-special-grid](https://github.com/kani675/leetcode/tree/master/3537-fill-a-special-grid) |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/kani675/leetcode/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/kani675/leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/kani675/leetcode/tree/master/0785-is-graph-bipartite) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/kani675/leetcode/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/kani675/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kani675/leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/kani675/leetcode/tree/master/0342-power-of-four) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/kani675/leetcode/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kani675/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/kani675/leetcode/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
