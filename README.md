@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kani675/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/kani675/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kani675/leetcode/tree/master/0069-sqrtx) |
+| [0342-power-of-four](https://github.com/kani675/leetcode/tree/master/0342-power-of-four) |
 | [0812-largest-triangle-area](https://github.com/kani675/leetcode/tree/master/0812-largest-triangle-area) |
 | [0887-super-egg-drop](https://github.com/kani675/leetcode/tree/master/0887-super-egg-drop) |
 | [1323-maximum-69-number](https://github.com/kani675/leetcode/tree/master/1323-maximum-69-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kani675/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/kani675/leetcode/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/kani675/leetcode/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
 | ------- |
@@ -188,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/kani675/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kani675/leetcode/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/kani675/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
