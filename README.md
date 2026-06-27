@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kani675/leetcode/tree/master/0049-group-anagrams) |
 | [1143-longest-common-subsequence](https://github.com/kani675/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kani675/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/kani675/leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1980-find-unique-binary-string](https://github.com/kani675/leetcode/tree/master/1980-find-unique-binary-string) |
 ## Dynamic Programming
 |  |
