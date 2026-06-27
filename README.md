@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/kani675/leetcode/tree/master/0887-super-egg-drop) |
 | [1027-longest-arithmetic-subsequence](https://github.com/kani675/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/kani675/leetcode/tree/master/1143-longest-common-subsequence) |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/kani675/leetcode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/kani675/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/kani675/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1980-find-unique-binary-string](https://github.com/kani675/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/kani675/leetcode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/kani675/leetcode/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [3477-fruits-into-baskets-ii](https://github.com/kani675/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3537-fill-a-special-grid](https://github.com/kani675/leetcode/tree/master/3537-fill-a-special-grid) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/kani675/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kani675/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/kani675/leetcode/tree/master/0218-the-skyline-problem) |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/kani675/leetcode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 ## Merge Sort
 |  |
 | ------- |
