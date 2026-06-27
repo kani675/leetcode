@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kani675/leetcode/tree/master/0049-group-anagrams) |
 | [1143-longest-common-subsequence](https://github.com/kani675/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kani675/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/kani675/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/kani675/leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1980-find-unique-binary-string](https://github.com/kani675/leetcode/tree/master/1980-find-unique-binary-string) |
 ## Dynamic Programming
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kani675/leetcode/tree/master/0733-flood-fill) |
 | [0812-largest-triangle-area](https://github.com/kani675/leetcode/tree/master/0812-largest-triangle-area) |
 | [1027-longest-arithmetic-subsequence](https://github.com/kani675/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/kani675/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1980-find-unique-binary-string](https://github.com/kani675/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/kani675/leetcode/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [3477-fruits-into-baskets-ii](https://github.com/kani675/leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kani675/leetcode/tree/master/0169-majority-element) |
 | [1027-longest-arithmetic-subsequence](https://github.com/kani675/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kani675/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/kani675/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1980-find-unique-binary-string](https://github.com/kani675/leetcode/tree/master/1980-find-unique-binary-string) |
 ## Counting
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/kani675/leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/kani675/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/kani675/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/kani675/leetcode/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kani675/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kani675/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/kani675/leetcode/tree/master/0218-the-skyline-problem) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/kani675/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Matrix
 |  |
 | ------- |
@@ -217,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kani675/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [1948-delete-duplicate-folders-in-system](https://github.com/kani675/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [1948-delete-duplicate-folders-in-system](https://github.com/kani675/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
