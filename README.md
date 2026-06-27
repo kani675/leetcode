@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kani675/leetcode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/kani675/leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kani675/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/kani675/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kani675/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kani675/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/kani675/leetcode/tree/master/0218-the-skyline-problem) |
@@ -61,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/kani675/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/kani675/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/kani675/leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/kani675/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1980-find-unique-binary-string](https://github.com/kani675/leetcode/tree/master/1980-find-unique-binary-string) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kani675/leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/kani675/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Depth-First Search
 |  |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kani675/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/kani675/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kani675/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/kani675/leetcode/tree/master/0218-the-skyline-problem) |
 ## Matrix
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kani675/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/kani675/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/kani675/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kani675/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kani675/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kani675/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
