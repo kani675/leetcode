@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kani675/leetcode/tree/master/0733-flood-fill) |
 | [0812-largest-triangle-area](https://github.com/kani675/leetcode/tree/master/0812-largest-triangle-area) |
 | [1980-find-unique-binary-string](https://github.com/kani675/leetcode/tree/master/1980-find-unique-binary-string) |
+| [3477-fruits-into-baskets-ii](https://github.com/kani675/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3537-fill-a-special-grid](https://github.com/kani675/leetcode/tree/master/3537-fill-a-special-grid) |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/kani675/leetcode/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 ## Math
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kani675/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kani675/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0887-super-egg-drop](https://github.com/kani675/leetcode/tree/master/0887-super-egg-drop) |
+| [3477-fruits-into-baskets-ii](https://github.com/kani675/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/kani675/leetcode/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/kani675/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [3477-fruits-into-baskets-ii](https://github.com/kani675/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/kani675/leetcode/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/kani675/leetcode/tree/master/0218-the-skyline-problem) |
+| [3477-fruits-into-baskets-ii](https://github.com/kani675/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/kani675/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kani675/leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/kani675/leetcode/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/kani675/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
