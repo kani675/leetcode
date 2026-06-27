@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kani675/leetcode/tree/master/0049-group-anagrams) |
 | [1143-longest-common-subsequence](https://github.com/kani675/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/kani675/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/kani675/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/kani675/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/kani675/leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1980-find-unique-binary-string](https://github.com/kani675/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kani675/leetcode/tree/master/0733-flood-fill) |
 | [0812-largest-triangle-area](https://github.com/kani675/leetcode/tree/master/0812-largest-triangle-area) |
 | [1027-longest-arithmetic-subsequence](https://github.com/kani675/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/kani675/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/kani675/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1980-find-unique-binary-string](https://github.com/kani675/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/kani675/leetcode/tree/master/2322-minimum-score-after-removals-on-a-tree) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/kani675/leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/kani675/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/kani675/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/kani675/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/kani675/leetcode/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/kani675/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/kani675/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Hash Function
 |  |
