@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/kani675/leetcode/tree/master/0887-super-egg-drop) |
 | [1027-longest-arithmetic-subsequence](https://github.com/kani675/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/kani675/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/kani675/leetcode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/kani675/leetcode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kani675/leetcode/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Array
@@ -239,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1948-delete-duplicate-folders-in-system](https://github.com/kani675/leetcode/tree/master/1948-delete-duplicate-folders-in-system) |
+## Memoization
+|  |
+| ------- |
+| [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/kani675/leetcode/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
