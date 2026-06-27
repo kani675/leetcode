@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/kani675/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/kani675/leetcode/tree/master/1143-longest-common-subsequence) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/kani675/leetcode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kani675/leetcode/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/kani675/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/kani675/leetcode/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/kani675/leetcode/tree/master/2322-minimum-score-after-removals-on-a-tree) |
+| [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kani675/leetcode/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/kani675/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3537-fill-a-special-grid](https://github.com/kani675/leetcode/tree/master/3537-fill-a-special-grid) |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/kani675/leetcode/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
